@@ -1,1 +1,1 @@
-# Java
+# Publishing System (Java, JDBC)
